@@ -1,0 +1,1 @@
+RichMind is a mind mapping software in C#.
